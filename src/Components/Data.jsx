@@ -7,8 +7,8 @@ export default function Data() {
             borderTop: "none",
             borderBottom: "none",
           }} className="border border-gray-500 p-4">
-          <p className="text-gray-500 font-bold">Plays about shooters</p>
-          <strong className="text-4xl">300+</strong>
+          <p className="text-gray-500 font-bold">project with database</p>
+          <strong className="text-4xl">2+</strong>
         </div>
 
         <div  style={{
@@ -16,8 +16,8 @@ export default function Data() {
             borderTop: "none",
             borderBottom: "none",
           }} className="border border-gray-500 p-4">
-          <p className="text-gray-500 font-bold">Plays about Horror</p>
-          <strong className="text-4xl">+59</strong>
+          <p className="text-gray-500 font-bold">project api rest and website</p>
+          <strong className="text-4xl">+2</strong>
         </div>
 
         <div  style={{
@@ -25,8 +25,8 @@ export default function Data() {
             borderTop: "none",
             borderBottom: "none",
           }} className="border border-gray-500 p-4">
-          <p className="text-gray-500 font-bold">Plays about adventure</p>
-          <strong className="text-4xl">+50</strong>
+          <p className="text-gray-500 font-bold">proyect innovative</p>
+          <strong className="text-4xl">+1</strong>
         </div>
 
         <div  style={{
@@ -34,8 +34,8 @@ export default function Data() {
             borderTop: "none",
             borderBottom: "none",
           }} className="border border-gray-500 p-4">
-          <p className="text-gray-500 font-bold">Plays about anything</p>
-          <strong className="text-4xl">+459</strong>
+          <p className="text-gray-500 font-bold">everthing projects</p>
+          <strong className="text-4xl">+5</strong>
         </div>
       </div>
     </>

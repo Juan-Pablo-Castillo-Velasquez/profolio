@@ -21,14 +21,14 @@ body{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); 
 }
 body {
-    color: black; 
+    color: white; 
     background-image: linear-gradient(to top, rgba(32, 6, 44, 0.945), rgba(4, 2, 17, 0.952));
   }
   
  
   @media (prefers-color-scheme: dark) {
     body {
-      color: #f0f0f0; 
+      color: white; 
       background-image: linear-gradient(to top, rgba(32, 6, 44, 0.945), rgba(4, 2, 17, 0.952));
     }
     strong {

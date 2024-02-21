@@ -67,7 +67,7 @@ import { useState } from 'react';
         </button>
       </div>
       <nav className={`text-center flex flex-col list-none space-x-4 items-center md:flex ${menuVisible ? 'block' : 'hidden'} md:space-x-4 md:flex-row md:mb-0`}>
-        <li className='font-bold text-gray-400 text-lg hover:transition all duration-300 transform ease-out hover:text-gray-400 hover:translate-y-1 mb-2 md:mb-0'>
+        <li className='font-bold text-gray-400 text-2xl hover:transition all duration-300 transform ease-out hover:text-gray-400 hover:translate-y-1 mb-2 md:mb-0'>
           <Link to="/">Home</Link>
         </li>
         <li className='font-bold text-gray-400 text-2xl hover:transition all duration-300 transform ease-out hover:text-gray-400 hover:translate-y-1 mb-2 md:mb-0'>

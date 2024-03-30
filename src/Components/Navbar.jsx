@@ -44,7 +44,7 @@ import { useState } from 'react';
        
 
   return (
-  <div style={{ zIndex: 1000, backgroundImage: 'linear-gradient(to top, rgba(20, 6, 44, 0.945), rgba(6, 2, 17, 0.952))', backgroundSize: 'cover' }} className='sticky top-0 bg-blue-920 flex flex-col md:flex-row p-2 items-center justify-between mb-4 mt-7'>
+<div style={{ zIndex: 1000, backgroundImage: 'linear-gradient(to top, rgba(20, 6, 44, 0.945), rgba(6, 2, 17, 0.952))', backgroundSize: 'cover' }} className='sticky top-0 bg-blue-900 flex flex-col md:flex-row p-2 items-center justify-between mb-4 mt-7'>
  
 
 

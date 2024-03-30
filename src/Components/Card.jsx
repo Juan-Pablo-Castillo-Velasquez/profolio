@@ -2,7 +2,7 @@ import {Fade} from "react-awesome-reveal"
 
 const Card = () => {
   const cardData = [
-    {
+    
      
     {
       title: "SearchingForFiles",
@@ -25,7 +25,7 @@ const Card = () => {
       likes: 130,
     },
     
-    }
+    
   ];
 
  

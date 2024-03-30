@@ -3,19 +3,7 @@ import {Fade} from "react-awesome-reveal"
 const Card = () => {
   const cardData = [
     {
-      title: "sql force",
-      description: "created consult so easy",
-      imageSrc: "https://github.com/Juan-Pablo-Castillo-Velasquez/profolio/blob/master/src/img/project5.png?raw=true",
-      link: "https://sql-force.vercel.app/",
-      likes: 130,
-    },
-    {
-      title: "Free image design",
-      description: "Rest API created using Node.js, Express, TypeScript, Tawilind, and EJS",
-      imageSrc: "https://github.com/Juan-Pablo-Castillo-Velasquez/profolio/blob/master/src/img/project12.jpg?raw=true",
-      link: "https://free-desing-image-46h4.onrender.com/",
-      likes: 100,
-    },
+     
     {
       title: "SearchingForFiles",
       description: "Created in Python, this application searches for occurrences in the project and writes them.",

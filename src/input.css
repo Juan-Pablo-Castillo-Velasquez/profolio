@@ -22,14 +22,14 @@ body{
 }
 body {
   color: white; 
- background-color: #333333;
+  background-image: url('ruta_de_tu_imagen.jpg');
   background-size: cover;
 }
 
 @media (prefers-color-scheme: dark) {
   body {
     color: white; 
-    background-image: url('ruta_de_tu_imagen.jpg');
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('ruta_de_tu_imagen.jpg');
     background-color: #333333;
     background-size: cover;
   }

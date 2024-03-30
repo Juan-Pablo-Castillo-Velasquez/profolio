@@ -62,7 +62,7 @@ const currentColorIndex = 0; // Cambia este índice según tu preferencia de col
           <Profile />
           <Experience />
 
-          <Slide duration={2500} direction="right">
+         
             <h1
               id="services"
               className="text-center text-6xl font-bold opacity-85 mb-2 mt-10"
@@ -70,7 +70,7 @@ const currentColorIndex = 0; // Cambia este índice según tu preferencia de col
               Services{" "}
             </h1>
             <Services />
-          </Slide>
+        
           <Data />
           <h1 className="text-5xl font-bold opacity-80">See more projects </h1>
           <Card />

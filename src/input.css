@@ -22,13 +22,16 @@ body{
 }
 body {
   color: white; 
-  background-image: linear-gradient(to top, rgba(32, 6, 44, 0.945), rgba(4, 2, 17, 0.952));
+ background-color: #333333;
+  background-size: cover;
 }
 
 @media (prefers-color-scheme: dark) {
   body {
     color: white; 
+    background-image: url('ruta_de_tu_imagen.jpg');
     background-color: #333333;
+    background-size: cover;
   }
   strong {
     color: #f0f0f0; 

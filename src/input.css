@@ -28,7 +28,7 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     color: white; 
-    background-color: #121212;
+    background-color: #333333;
   }
   strong {
     color: #f0f0f0; 
@@ -51,4 +51,3 @@ body {
     color: white;
   }
 }
-

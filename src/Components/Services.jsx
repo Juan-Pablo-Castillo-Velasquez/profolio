@@ -72,7 +72,7 @@ export default function Services() {
         </div>
       </div>
 
-      <div id="contactPopup" className="relative inset-0 bg-opacity-0 hidden">
+      <div style={{ zIndex: 100 }} id="contactPopup" className="relative inset-0 bg-opacity-0 hidden">
         <div className="p-4 sm:p-8 bg-gray-400 rounded-2xl fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full sm:max-w-md ">
           <h1 className="text-white font-bold text-2xl sm:text-3xl opacity-100 mb-4 sm:mb-6">
             Formulario de Contactos

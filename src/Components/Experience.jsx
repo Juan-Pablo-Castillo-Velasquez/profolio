@@ -90,14 +90,14 @@ const Experience = () => {
       <ol className="relative border-s border-gray-200 ml-3">
         {EXPERIENCES.map((experience, index) => (
           <li key={index} className="mb-10 ms-4">
-            <Slide duration={2000}>
+           
               <div id={`Experience${index}`} className="container mx-auto p-8 max-w-2xl">
                 <h1 className="text-5xl font-bold flex items-center mb-10">
                   <MdWork className="mr-6" />Work experience
                 </h1>
                 <TimelineItem {...experience} />
               </div>
-            </Slide>
+         
           </li>
         ))}
       </ol>

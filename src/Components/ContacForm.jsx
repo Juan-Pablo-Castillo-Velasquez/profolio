@@ -4,7 +4,7 @@ const ContactForm = () => {
   const [state, ] = useForm("xbjnlgqz");
 
   return (
-    <div className="max-w-md mx-auto mt-8 p-4 sm:p-8 bg-white rounded-xl shadow-md relative" style={{ zIndex: 100 }}> {/* Ajusta el valor de zIndex según sea necesario */}
+    <div className="max-w-md mx-auto mt-8 p-4 sm:p-8 bg-white rounded-xl shadow-md relative z-100" > {/* Ajusta el valor de zIndex según sea necesario */}
       <form action="https://formspree.io/f/xbjnlgqz" method="POST">
         <div className="mb-4">
           <label htmlFor="email" className="block text-sm font-medium text-gray-600">

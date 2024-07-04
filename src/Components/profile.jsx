@@ -64,7 +64,7 @@ export default function Profile() {
                 <div className="rounded-full overflow-hidden relative">
                   {/* Imagen */}
                   <img
-                    src="https://media.licdn.com/dms/image/D4E03AQG7KvwLOICSJA/profile-displayphoto-shrink_800_800/0/1704599773143?e=1717027200&v=beta&t=DBngVDD99PtMYjTmjKi3Syp6yPbAWs1gru4bdqkjE1A"
+                    src="https://media.licdn.com/dms/image/D4E03AQG7KvwLOICSJA/profile-displayphoto-shrink_400_400/0/1704599773143?e=2147483647&v=beta&t=Tpr-k5VBs9nrKrg4sowsxxEVnvDub_obQclE74RSqEE"
                     alt="Profile"
                     className="max-w-xs transform rotate-x-0 rotate-y-0 rotate-z-0 hover:rotate-x-12 hover:rotate-y-12 hover:rotate-z-12 transition-transform duration-600 "
                     style={{ transform: `rotateX(${rotation}deg) rotateY(${rotation}deg) rotateZ(${rotation}deg)` }}
@@ -78,7 +78,7 @@ export default function Profile() {
               ) : (
                 <div className="rounded-full overflow-hidden">
                   <img
-                    src="https://media.licdn.com/dms/image/D4E03AQG7KvwLOICSJA/profile-displayphoto-shrink_800_800/0/1704599773143?e=1717027200&v=beta&t=DBngVDD99PtMYjTmjKi3Syp6yPbAWs1gru4bdqkjE1A"
+                    src="https://media.licdn.com/dms/image/D4E03AQG7KvwLOICSJA/profile-displayphoto-shrink_400_400/0/1704599773143?e=2147483647&v=beta&t=Tpr-k5VBs9nrKrg4sowsxxEVnvDub_obQclE74RSqEE"
                     alt="Profile"
                     className="max-w-xs transform rotate-x-0 rotate-y-0 rotate-z-0 hover:rotate-x-12 hover:rotate-y-12 hover:rotate-z-12 transition-transform duration-500"
                     style={{ transform: `rotateX(${rotation}deg) rotateY(${rotation}deg) rotateZ(${rotation}deg)` }}
